@@ -1,0 +1,3 @@
+[build]
+    publish = "./output/"
+    command = "./vendor/bin/basildon build ."

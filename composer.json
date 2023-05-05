@@ -3,6 +3,6 @@
     "description": "A bare-bones Basildon site.",
     "license": "GPL-3.0-or-later",
     "require": {
-        "samwilson/basildon": "^2.2"
+        "samwilson/basildon": "^4"
     }
 }
